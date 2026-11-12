@@ -4,7 +4,7 @@ public class Prueba {
     static void main(String[] args) {
         int n;
 
-        System.out.print("Primer número: ");
+        System.out.print("Tercer número: ");
         n = leerNumero();
     }
 
